@@ -1,1 +1,2 @@
 # miraibot
+bot tự fix
